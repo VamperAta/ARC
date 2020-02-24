@@ -1,0 +1,2 @@
+# ARC
+Absztrakció és Gondolkodás
